@@ -1,0 +1,258 @@
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+G:\projektyu visual\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+G:\projektyu visual\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+G:\projektyu visual\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+G:\projektyu visual\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\projektyu visual\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 2\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 3\wersja 1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+G:\projektyu visual\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+G:\projektyu visual\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+G:\projektyu visual\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+G:\projektyu visual\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\projektyu visual\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 9\wersja 12\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mateu\Desktop\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+G:\projektyu visual\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+G:\projektyu visual\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+G:\projektyu visual\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+G:\projektyu visual\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 10\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\projektyu visual\wersja 10\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 11\wersja 11\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\mateu\Desktop\wersja 11 — kopia\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+G:\projektyu visual\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+G:\projektyu visual\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+G:\projektyu visual\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+G:\projektyu visual\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+G:\projektyu visual\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.ResolveComReference.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl1.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl2.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.UserControl3.resources
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\STUDIA TEO\111.praca inżynierska\praca inżynierska w visual studio\wersja 12\wersja 69\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
